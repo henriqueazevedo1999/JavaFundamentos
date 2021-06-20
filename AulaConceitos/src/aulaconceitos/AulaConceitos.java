@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package aulaconceitos;
 
 import java.util.Locale;
@@ -10,10 +5,6 @@ import java.util.Scanner;
 import java.text.NumberFormat;
 import java.text.ParseException;
 
-/**
- *
- * @author 70726
- */
 public class AulaConceitos
 {
 
