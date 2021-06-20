@@ -3,10 +3,6 @@ package jogodavelha;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- *
- * @author 70726
- */
 public class JogoDaVelha
 {
 
